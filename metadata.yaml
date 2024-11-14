@@ -1,0 +1,25 @@
+_repo: Odenwaldin-tammi_74692
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roquette, Otto
+    gutenberg_agent_id: '57601'
+    url: http://www.gutenberg.org/2009/agents/57601
+description: ''
+gutenberg_issued: '2024-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74692'
+language: fi
+pgterms:marc905: 20240913002412roquette
+pgterms:marc906: '1882'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHelsinki :$bSuomalaisen Kirjallisuuden Seura, $c1882.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Odenwaldin tammi
+url: http://www.gutenberg.org/ebooks/74692
